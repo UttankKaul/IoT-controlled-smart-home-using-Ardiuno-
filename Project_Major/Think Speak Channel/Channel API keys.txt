@@ -1,0 +1,8 @@
+Channel ID: 1091001
+Channel API keys:-
+Write:-
+GET https://api.thingspeak.com/update?api_key=CG2R0KFHH52JIKSV&field1=0
+Read:-
+GET https://api.thingspeak.com/channels/1091001/feeds.json?results=1
+Read from the field
+https://api.thingspeak.com/channels/1091001/fields/1.json?results=1
